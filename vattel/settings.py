@@ -25,7 +25,7 @@ SECRET_KEY = '3o=@&d(m7so%_+12^g%z!2bx8)z))av=5zs$hph$1epc=gn#u5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'django-chanbin.c9users.io']
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 

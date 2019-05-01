@@ -1,6 +1,6 @@
 # VATTEL Project
 
-* Made by 전찬빈, 박재형
+* Made by 전찬빈
 * C9에서 개발
 * 이벤트 로그 시각화 분석 프로그램
 
